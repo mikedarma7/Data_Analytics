@@ -1,0 +1,1 @@
+In this section, we will be practicing to call out SQL queries.
