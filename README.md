@@ -11,3 +11,4 @@ Key takeaways:
 - Accessing dataframe using .loc and .iloc
 - Groupby function
 - Visualization using Matplotlib or Seaborn
+- Timeseries Analysis
